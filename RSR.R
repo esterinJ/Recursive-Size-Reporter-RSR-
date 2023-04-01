@@ -1,8 +1,3 @@
-# Esterin Kojtari, 120671
-
-# Set WD 
-setwd("~/Library/CloudStorage/OneDrive-AlmaMaterStudiorumUniversitàdiBologna/R/Project_1/Root")
-
 # Create the sizeReport function
 sizeReport <- function(path, patt=".*", dironly=FALSE, level=Inf) {
   
